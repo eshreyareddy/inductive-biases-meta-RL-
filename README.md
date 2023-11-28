@@ -8,4 +8,4 @@
 [Powerpoint Presentation-Slides(slideshare)](https://www.slideshare.net/shreyareddyedulakant/inductive-human-biasespptx)
 
 
-[video URL]()
+[video URL](https://drive.google.com/file/d/18pJyucTb6YR-Plsheeheq53GXypxzZHG/view?usp=sharing)
