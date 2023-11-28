@@ -1,2 +1,5 @@
 # inductive-biases-meta-RL-
-[Medium Article](https://medium.com/@shreyareddy.edulakanti/humanizing-ai-the-convergence-of-language-programming-and-learning-71ee12bc9982)
+[Research Paper](URL "https://arxiv.org/abs/2205.11558")
+[Medium Article](URL "https://medium.com/@shreyareddy.edulakanti/humanizing-ai-the-convergence-of-language-programming-and-learning-71ee12bc9982")
+[Powerpoint Presentation-Slides(slideshare)](URL "https://www.slideshare.net/shreyareddyedulakant/inductive-human-biasespptx")
+[video URL](URL "")
